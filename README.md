@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+ Welcome to my GitHub profile!
+I am a full-stack developer passionate about web development, APIs, automation, and modern technologies.
+I enjoy building clean, efficient, and user-focused applications.
 <!--
 **souyousy/souyousy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
