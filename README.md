@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm Soufiane!
-<p align="center">I am a full-stack developer passionate about web development, APIs, automation, and modern technologies.</p>
-<p align="center">I enjoy building clean, efficient, and user-focused applications.</p>
+<div align="center">
+<p>I am a full-stack developer passionate about web development, APIs, automation, and modern technologies.<br>
+  I enjoy building clean, efficient, and user-focused applications.</p>
+</div>
 
 ## 💻 current Tech Stack 
 
